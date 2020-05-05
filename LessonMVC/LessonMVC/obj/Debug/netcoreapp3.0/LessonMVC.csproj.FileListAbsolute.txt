@@ -1,0 +1,11 @@
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\bin\Debug\netcoreapp3.0\LessonMVC.exe
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\bin\Debug\netcoreapp3.0\LessonMVC.deps.json
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\bin\Debug\netcoreapp3.0\LessonMVC.runtimeconfig.json
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\bin\Debug\netcoreapp3.0\LessonMVC.runtimeconfig.dev.json
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\bin\Debug\netcoreapp3.0\LessonMVC.dll
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\bin\Debug\netcoreapp3.0\LessonMVC.pdb
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\obj\Debug\netcoreapp3.0\LessonMVC.csprojAssemblyReference.cache
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\obj\Debug\netcoreapp3.0\LessonMVC.AssemblyInfoInputs.cache
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\obj\Debug\netcoreapp3.0\LessonMVC.AssemblyInfo.cs
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\obj\Debug\netcoreapp3.0\LessonMVC.dll
+C:\Users\korni\source\repos\LessonMVC\LessonMVC\obj\Debug\netcoreapp3.0\LessonMVC.pdb
